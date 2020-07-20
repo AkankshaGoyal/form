@@ -1,0 +1,42 @@
+body
+{
+	background:indigo;
+}
+h1
+{
+	font-family:cursive;
+}
+input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 0px;
+  cursor: pointer;
+  float: left;
+  margin-left: 150%;
+  margin-top: 10%;
+}
+input[type=Submit]:hover{
+  background-color: grey;
+}
+form {
+   font-family: cursive;
+   font-color:solid;
+   font-size:20px;
+   box-sizing: border-box;
+   padding:100px;
+
+
+ }
+ input[type=employeeid], select {
+  width: 100%;
+  padding: 8px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-color: black;
+  border-radius: 4px;
+  box-sizing: border-box;
+
+}
